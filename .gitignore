@@ -15,9 +15,6 @@ publish/
 *.sln.docstates
 *.userprefs
 
-# Installer output
-PrayerReminder-Setup.exe
-
 # Logs
 Logs/
 *.log
